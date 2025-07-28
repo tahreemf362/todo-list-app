@@ -16,7 +16,7 @@ This is a simple and responsive To-Do List web application that helps users mana
 - JavaScript (Vanilla)
 
 ## 📷 Screenshots
-
+![App Screenshot](todo.PNG)
 
 ## 🔧 How to Use
 1. Clone the repository or download ZIP  
